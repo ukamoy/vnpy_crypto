@@ -1,0 +1,16 @@
+PyQt5
+pyqtgraph
+dataclasses; python_version<="3.6"
+qdarkstyle
+requests
+websocket-client
+mongoengine
+numpy
+pandas==0.24
+matplotlib
+seaborn
+rqdatac
+ta-lib
+deap
+pyzmq
+wmi
